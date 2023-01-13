@@ -16,9 +16,6 @@ export const AlertTitle = tw.span`
 `;
 
 export const AlertClose = tw.div`
-  px-6 
-  h-1 
-  w-1
+  px-2 
   cursor-pointer
-  hover:text-lg
 `;
